@@ -1,2 +1,3 @@
 # blue-app
-Blueapp, Hackathon 
+Blueapp, Hackathon Sciensa
+The website
